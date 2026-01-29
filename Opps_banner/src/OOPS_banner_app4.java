@@ -5,6 +5,7 @@ public class OOPS_banner_app4 {
 
         CharacterPatternMap(char character, String[] pattern) {
             this.character = character;
+
             this.pattern = pattern;
         }
     }
